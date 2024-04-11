@@ -17,6 +17,9 @@ dependencies:
   react-dom:
     specifier: ^18
     version: 18.2.0(react@18.2.0)
+  webgl-fluid-enhanced:
+    specifier: ^0.6.0
+    version: 0.6.0
 
 devDependencies:
   '@types/node':
@@ -2829,6 +2832,10 @@ packages:
   /util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
     dev: true
+
+  /webgl-fluid-enhanced@0.6.0:
+    resolution: {integrity: sha512-dGqvM51IdCGvLiVZ02dePaVDXGi7/7BW5Kr14vRi5CmQRfTV1YB17Fu0NhTmVJ3I79xtGQYeC/3TluxM1YkYqw==}
+    dev: false
 
   /which-boxed-primitive@1.0.2:
     resolution: {integrity: sha512-bwZdv0AKLpplFY2KZRX6TvyuN7ojjr7lwkg6ml0roIy9YeuSr7JS372qlNW18UQYzgYK9ziGcerWqZOmEn9VNg==}
